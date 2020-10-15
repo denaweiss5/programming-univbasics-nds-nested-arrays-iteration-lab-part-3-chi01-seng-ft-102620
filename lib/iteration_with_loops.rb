@@ -13,5 +13,5 @@ row_index= 0
     end
   row_index+=1
   end
-  src
+  join_nested_strings
 end
